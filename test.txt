@@ -1,17 +1,34 @@
-F001:Report Change Customer Data ปญัหาทพี่บ • เนอื่งจาก OC ท าการ Run Report Change Customer Data เพอื่ตรวจสอบเคสทที่ าการ Special Change Customer On SSO แลว้ระบบดงึขอ้มลูที่ท าการเปลยี่นแปลงขอ้มลูลกูคา้ผา่นระบบ Mobile Change Customer Type Special (932) มาแสดงดว้ย 
- 
-การแกไ้ข แกไ้ขการบนัทกึขอ้มลูการท า Request Change ผ่านระบบ Mobile ใหล้งขอ้มูลเคส Type Special ให้ ถกูตอ้ง 
-** ขอ้มลูทไี่มถู่กตอ้งกอ่นการแกไ้ขจะไมถ่กูเปลยี่นแปลง แตข่อ้มลูหลงัจากแกไ้ขแลว้ขอ้มลูทที่ าผ่าน ระบบ Mobile Type Special ตอ้งไมแ่สดงใน Special Report Change Customer ** 
+F001:Report Change Customer Data
+ปัญหาที่พบ
+•	เนื่องจาก OC ทำการ Run Report Change Customer Data เพื่อตรวจสอบเคสที่ทำการ Special Change Customer On SSO แล้วระบบดึงข้อมูลที่ทำการเปลี่ยนแปลงข้อมูลลูกค้าผ่านระบบ Mobile Change Customer Type Special (932) มาแสดงด้วย
 
-F002:Report Key Full Application  ปญัหาทพี่บ • เนอื่งจาก User ไม่สามารถท าการ Run Report Key Full Application ระบบแสดงขอ้ความ Data not Found 
+การแก้ไข
+แก้ไขการบันทึกข้อมูลการทำ Request Change ผ่านระบบ Mobile ให้ลงข้อมูลเคส Type Special ให้ถูกต้อง
+** ข้อมูลที่ไม่ถูกต้องก่อนการแก้ไขจะไม่ถูกเปลี่ยนแปลง แต่ข้อมูลหลังจากแก้ไขแล้วข้อมูลที่ทำผ่านระบบ Mobile Type Special ต้องไม่แสดงใน Special Report Change Customer **
  
-การแกไ้ข แกไ้ขระบบเพอื่ให ้Run Report Key Full Application ได้ 
+ 
 
-F003:Report Control Key Full Application  ปญัหาทพี่บ • เนอื่งจาก User ไม่สามารถท าการ Run Report Control Key Full Application ระบบแสดง ขอ้ความ Data not Found 
- 
-การแกไ้ข แกไ้ขระบบเพอื่ให ้Run Report Control Key Full Application ได้ 
+F002:Report Key Full Application
+ ปัญหาที่พบ
+•	เนื่องจาก User ไม่สามารถทำการ Run Report Key Full Application ระบบแสดงข้อความ Data not Found
 
-F004:Report Change Customer and Inquiry Request  ปญัหาทพี่บ • เนอื่งจาก User ท าการ Search ขอ้มลูลกูคา้หนา้ Report Change Customer and Inquiry Request แลว้พบวา่ Request No. 23010003166 ไมแ่สดงขอ้มลู ID No. และ Name-Surname 
+การแก้ไข
+แก้ไขระบบเพื่อให้ Run Report Key Full Application ได้
  
-การแกไ้ข แกไ้ขระบบใหแ้สดงขอ้มูล ID No. และ Name-Surname ของ Request No. 23010003166 ทหี่นา้จอ Report Change Customer and Inquiry Request  
+
+F003:Report Control Key Full Application
+ ปัญหาที่พบ
+•	เนื่องจาก User ไม่สามารถทำการ Run Report Control Key Full Application ระบบแสดงข้อความ Data not Found
+
+การแก้ไข
+แก้ไขระบบเพื่อให้ Run Report Control Key Full Application ได้
+
+
+F004:Report Change Customer and Inquiry Request
+ ปัญหาที่พบ
+•	เนื่องจาก User ทำการ Search ข้อมูลลูกค้าหน้า Report Change Customer and Inquiry Request แล้วพบว่า Request No. 23010003166 ไม่แสดงข้อมูล ID No. และ Name-Surname
+
+การแก้ไข
+แก้ไขระบบให้แสดงข้อมูล ID No. และ Name-Surname ของ Request No. 23010003166 ที่หน้าจอ Report Change Customer and Inquiry Request 
+ 
  
