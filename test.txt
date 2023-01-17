@@ -1,0 +1,4 @@
+F001:Report Change Customer Data ปญัหาทพี่บ • เนอื่งจาก OC ท าการ Run Report Change Customer Data เพอื่ตรวจสอบเคสทที่ าการ Special Change Customer On SSO แลว้ระบบดงึขอ้มลูที่ท าการเปลยี่นแปลงขอ้มลูลกูคา้ผา่นระบบ Mobile Change Customer Type Special (932) มาแสดงดว้ย 
+ 
+การแกไ้ข แกไ้ขการบนัทกึขอ้มลูการท า Request Change ผ่านระบบ Mobile ใหล้งขอ้มูลเคส Type Special ให้ ถกูตอ้ง 
+** ขอ้มลูทไี่มถู่กตอ้งกอ่นการแกไ้ขจะไมถ่กูเปลยี่นแปลง แตข่อ้มลูหลงัจากแกไ้ขแลว้ขอ้มลูทที่ าผ่าน ระบบ Mobile Type Special ตอ้งไมแ่สดงใน Special Report Change Customer ** 
