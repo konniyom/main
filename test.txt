@@ -2,3 +2,16 @@ F001:Report Change Customer Data ปญัหาทพี่บ • เนอื
  
 การแกไ้ข แกไ้ขการบนัทกึขอ้มลูการท า Request Change ผ่านระบบ Mobile ใหล้งขอ้มูลเคส Type Special ให้ ถกูตอ้ง 
 ** ขอ้มลูทไี่มถู่กตอ้งกอ่นการแกไ้ขจะไมถ่กูเปลยี่นแปลง แตข่อ้มลูหลงัจากแกไ้ขแลว้ขอ้มลูทที่ าผ่าน ระบบ Mobile Type Special ตอ้งไมแ่สดงใน Special Report Change Customer ** 
+
+F002:Report Key Full Application  ปญัหาทพี่บ • เนอื่งจาก User ไม่สามารถท าการ Run Report Key Full Application ระบบแสดงขอ้ความ Data not Found 
+ 
+การแกไ้ข แกไ้ขระบบเพอื่ให ้Run Report Key Full Application ได้ 
+
+F003:Report Control Key Full Application  ปญัหาทพี่บ • เนอื่งจาก User ไม่สามารถท าการ Run Report Control Key Full Application ระบบแสดง ขอ้ความ Data not Found 
+ 
+การแกไ้ข แกไ้ขระบบเพอื่ให ้Run Report Control Key Full Application ได้ 
+
+F004:Report Change Customer and Inquiry Request  ปญัหาทพี่บ • เนอื่งจาก User ท าการ Search ขอ้มลูลกูคา้หนา้ Report Change Customer and Inquiry Request แลว้พบวา่ Request No. 23010003166 ไมแ่สดงขอ้มลู ID No. และ Name-Surname 
+ 
+การแกไ้ข แกไ้ขระบบใหแ้สดงขอ้มูล ID No. และ Name-Surname ของ Request No. 23010003166 ทหี่นา้จอ Report Change Customer and Inquiry Request  
+ 
